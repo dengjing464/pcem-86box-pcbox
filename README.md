@@ -14,3 +14,7 @@
 My video webstite【我的视频网站】
 
 [哔哩哔哩/bilibili](https://space.bilibili.com/3494365582330231?spm_id_from=333.1007.0.0)
+
+[AcFun/acfun](https://www.acfun.cn/u/76268308)
+
+[YouTube/youtube](https://www.youtube.com/@%E6%9B%B4%E5%A5%BD%E5%8F%91%E7%9A%84)
