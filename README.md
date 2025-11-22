@@ -1,6 +1,8 @@
 # pcem-86box-pcbox-other
 测试运行pcem和86box和pcbox运行操作系统速度和时间
 
+86Box
+
 <img width="350" height="92" alt="image" src="https://github.com/user-attachments/assets/de2a0cbd-e8b0-483d-b1b0-cfc943e769ab" />
 
 [86Box official webstite](https://86box.net)
@@ -10,6 +12,8 @@
 [86Box X/Twitter](https://x.com/86BoxEmulator)
 
 [86Box bsky](https://bsky.app/profile/86box.net)
+
+PCem
 
 <img width="560" height="277" alt="image" src="https://github.com/user-attachments/assets/624ee989-1032-40c0-8b17-64e508d1dc74" />
 
@@ -36,6 +40,17 @@ Neko Project
 [Neko Project](https://simk98.github.io/np21w/index.html)
 
 [下载/download/ダウンロード](https://simk98.github.io/np21w/download.html)
+
+winbox for 86box
+
+![Uploading image.png…]()
+
+
+[Github](https://github.com/bca009/WinBox-for-86Box)
+
+[emulationrealm](https://emulationrealm.net/downloads/frontends/windows/86box/winbox-for-86box)
+
+[thestarman.pcministry](https://thestarman.pcministry.com/asm/bios/winbox/index.html)
 
 My video webstite【我的视频网站】
 
